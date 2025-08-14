@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/encabezado.png" alt="Encabezado ESPE" width="800"/>
+  <img src="./img/encabezado.png" alt="Encabezado ESPE" width="50"/>
 </p>
 
 <table>
