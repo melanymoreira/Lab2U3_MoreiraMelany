@@ -1,28 +1,37 @@
-<p align="center">
-  <img src="./img/encabezado.png" alt="Encabezado ESPE" width="50"/>
-</p>
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td><b>DEPARTAMENTO:</b></td>
-    <td></td>
-    <td><b>CARRERA:</b></td>
-    <td></td>
+    <td width="20%" align="center" rowspan="2">
+      <img src="./img/encabezado.png" alt="Encabezado ESPE" width="220"/>
+    </td>
+    <td align="center" bgcolor="#f2f2f2" style="font-size:18px; font-weight:bold;" colspan="5">
+      INFORME DE PRÁCTICA DE LABORATORIO
+    </td>
+  </tr>
+  <tr></tr>
+</table>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse; font-size:13px;">
+  <tr>
+    <td bgcolor="#e6e6e6"><b>DEPARTAMENTO:</b></td>
+    <td>Ciencias de la Computación</td>
+    <td bgcolor="#e6e6e6"><b>CARRERA:</b></td>
+    <td>Ingeniería en Tecnologías de la Información</td>
   </tr>
   <tr>
-    <td><b>ASIGNATURA:</b></td>
-    <td></td>
-    <td><b>NIVEL:</b></td>
-    <td></td>
-    <td><b>FECHA:</b></td>
-    <td></td>
+    <td bgcolor="#e6e6e6"><b>ASIGNATURA:</b></td>
+    <td>Aplicaciones Distribuidas</td>
+    <td bgcolor="#e6e6e6"><b>NIVEL:</b></td>
+    <td>7mo</td>
+    <td bgcolor="#e6e6e6"><b>FECHA:</b></td>
+    <td>13/08/2025</td>
   </tr>
   <tr>
-    <td><b>DOCENTE:</b></td>
-    <td></td>
-    <td><b>PRÁCTICA N°:</b></td>
-    <td></td>
-    <td><b>CALIFICACIÓN:</b></td>
+    <td bgcolor="#e6e6e6"><b>DOCENTE:</b></td>
+    <td>Paulo Galarza</td>
+    <td bgcolor="#e6e6e6"><b>PRÁCTICA N°:</b></td>
+    <td>2</td>
+    <td bgcolor="#e6e6e6"><b>CALIFICACIÓN:</b></td>
     <td></td>
   </tr>
 </table>
