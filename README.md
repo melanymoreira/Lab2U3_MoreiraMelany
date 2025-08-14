@@ -1,7 +1,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="20%" align="center" rowspan="2">
+    <td width="20%" align="center" >
       <img src="./img/encabezado.png" alt="Encabezado ESPE" width="220"/>
     </td>
     <td align="center" bgcolor="#f2f2f2" style="font-size:18px; font-weight:bold;" colspan="5">
