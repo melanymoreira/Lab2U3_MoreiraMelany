@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-# Implementación de Notificaciones en Tiempo Real con Socket.io para Registro de Computadoras en Laboratorio
+# Implementación de Notificaciones en Tiempo Real con Socket.io
 
 **Melany Rosmery Moreira Zambrano**
 
