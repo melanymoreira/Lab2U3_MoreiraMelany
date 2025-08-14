@@ -7,9 +7,6 @@
       INFORME DE PRÁCTICA DE LABORATORIO
     </td>
   </tr>
-  <tr>
-    <td colspan="1" style="border:none; padding:0;"></td>
-  </tr>
 </table>
 
 <table width="100%" border="1" cellpadding="6" style="border-collapse:collapse; font-size:15px;">
