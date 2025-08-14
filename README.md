@@ -36,7 +36,7 @@
 
 # Implementación de Notificaciones en Tiempo Real con Socket.io
 
-**Melany Rosmery Moreira Zambrano**
+**Melany Rosmery Moreira Zambrano, Karlos Gregory Chévez Bazán**
 
 ---
 
