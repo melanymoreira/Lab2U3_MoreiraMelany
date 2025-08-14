@@ -1,37 +1,38 @@
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<table width="100%" border="1" cellpadding="4" style="border-collapse:collapse; font-size:15px;">
   <tr>
-    <td width="20%" align="center" >
-      <img src="./img/encabezado.png" alt="Encabezado ESPE" width="220"/>
+    <td width="15%" align="center" rowspan="2">
+      <img src="./img/encabezado.png" alt="Encabezado ESPE" width="180"/>
     </td>
-    <td align="center" bgcolor="#f2f2f2" style="font-size:18px; font-weight:bold;" colspan="5">
+    <td align="center" colspan="5" style="font-size:20px; font-weight:500;">
       INFORME DE PRÁCTICA DE LABORATORIO
     </td>
   </tr>
-  <tr></tr>
+  <tr>
+    <td colspan="1" style="border:none; padding:0;"></td>
+  </tr>
 </table>
 
-<table width="100%" border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse; font-size:13px;">
+<table width="100%" border="1" cellpadding="6" style="border-collapse:collapse; font-size:15px;">
   <tr>
-    <td bgcolor="#e6e6e6"><b>DEPARTAMENTO:</b></td>
+    <td style="font-weight:bold;">DEPARTAMENTO:</td>
     <td>Ciencias de la Computación</td>
-    <td bgcolor="#e6e6e6"><b>CARRERA:</b></td>
-    <td>Ingeniería en Tecnologías de la Información</td>
+    <td style="font-weight:bold;">CARRERA:</td>
+    <td colspan="3">Ingeniería en Tecnologías de la Información</td>
   </tr>
-  <tr>
-    <td bgcolor="#e6e6e6"><b>ASIGNATURA:</b></td>
+  <tr style="background:#f6f9fc;">
+    <td style="font-weight:bold;">ASIGNATURA:</td>
     <td>Aplicaciones Distribuidas</td>
-    <td bgcolor="#e6e6e6"><b>NIVEL:</b></td>
+    <td style="font-weight:bold;">NIVEL:</td>
     <td>7mo</td>
-    <td bgcolor="#e6e6e6"><b>FECHA:</b></td>
+    <td style="font-weight:bold;">FECHA:</td>
     <td>13/08/2025</td>
   </tr>
   <tr>
-    <td bgcolor="#e6e6e6"><b>DOCENTE:</b></td>
+    <td style="font-weight:bold;">DOCENTE:</td>
     <td>Paulo Galarza</td>
-    <td bgcolor="#e6e6e6"><b>PRÁCTICA N°:</b></td>
+    <td style="font-weight:bold;">PRÁCTICA N°:</td>
     <td>2</td>
-    <td bgcolor="#e6e6e6"><b>CALIFICACIÓN:</b></td>
+    <td style="font-weight:bold;">CALIFICACIÓN:</td>
     <td></td>
   </tr>
 </table>
